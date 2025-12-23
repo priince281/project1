@@ -1,7 +1,7 @@
 Project Structure
 
 Synthetic-Image-Generation-GAN/
-│
+
 ├── module1_data/
 
 ├── module2_model/
@@ -13,3 +13,4 @@ Synthetic-Image-Generation-GAN/
 ├── module5_deployment/
 
 ├── module6_monitoring_ethics/
+
